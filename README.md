@@ -1,6 +1,8 @@
 # Signal-Processing-Applied-Mathematics
 BME 671 Course Assignment
 
+### Electro Cardiogram Signal Cleaning using IIR and FIR Filter
+
 #### Filtered Signal after removing noise
 ![CleanedECGSignal](images/filtered_signal_with_original.png)
 
