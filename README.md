@@ -5,7 +5,7 @@ BME 671 Course Assignment
 ![Filter](images/filter.png)
 
 #### Final Signal after removing noise
-![Cleaned ECG Signal](images/signal.png)
+![CleanedECGSignal](images/signal.png)
 
 
 
